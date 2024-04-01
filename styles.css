@@ -1,12 +1,12 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
 .container {
     position: relative; /* Asegura que el posicionamiento relativo funcione correctamente */
-    background-image: url('Data-analyst.jpg');
+    background-color: grey;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
